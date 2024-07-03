@@ -95,9 +95,7 @@ Feel free to reach out for any inquiries or suggestions at [wannawongworachataj@
 
 ---
 
-**Student** | UX/UI Designer | [LinkedIn](https://www.linkedin.com/in/brainwaves-your-ai-playground-9082922ba) | [Behance](https://www.linkedin.com/in/brainwaves-your-ai-playground-9082922ba) | [GitHub](https://github.com/worachat-dev)
-
-![GitHub followers](https://github.com/worachat-dev) ![GitHub stars](https://github.com/worachat-dev)
+**Student** | UX/UI Designer | [LinkedIn](https://www.linkedin.com/in/brainwaves-your-ai-playground-9082922ba) | [GitHub](https://github.com/worachat-dev)
 
 ```
 
