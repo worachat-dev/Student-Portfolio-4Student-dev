@@ -91,7 +91,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ---
 
-Feel free to reach out for any inquiries or suggestions at [wannawongworachataj@gmail.com](mailto:wannawongworachataj@gmail.com).
+Feel free to reach out for any inquiries or suggestions at [Twitter or X](https://x.com/drcha_tea).
 
 ---
 
