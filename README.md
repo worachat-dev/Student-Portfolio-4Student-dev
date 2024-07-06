@@ -96,9 +96,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ---
 
 ## Contact
-Feel free to reach out for any inquiries or suggestions at [Twitter or X](https://x.com/drcha_tea).
-
-UX/UI Designer | [LinkedIn](https://www.linkedin.com/in/brainwaves-your-ai-playground-9082922ba) | [GitHub](https://github.com/worachat-dev)
+Feel free to reach out for any inquiries or suggestions at [Twitter or X](https://x.com/drcha_tea) , UX/UI Designer | [LinkedIn](https://www.linkedin.com/in/brainwaves-your-ai-playground-9082922ba) | [GitHub](https://github.com/worachat-dev)
 
 ---
 
