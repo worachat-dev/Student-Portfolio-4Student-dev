@@ -85,6 +85,10 @@ The modifications and enhancements in this project include personalized content,
 
 Please visit Bedimcode's [original repository](https://github.com/bedimcode/portfolio-responsive-complete) to explore their fantastic work and other projects.
 
+## Authors
+
+- **Worachat W, Dev.** - *Data Science, Engineering & Full Stack Dev. 2024*
+
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
