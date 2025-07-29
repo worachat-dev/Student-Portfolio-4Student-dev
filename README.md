@@ -16,7 +16,7 @@ Welcome to the UX/UI Student-Designer Portfolio repository. This project showcas
 
 ## Demo
 
-You can view the live demo of the portfolio [here](https://my-student-portfolio.tiiny.site/index.html).
+You can view the live demo of the portfolio [here](https://worachat-dev.github.io/Student-Portfolio-4Student-dev/).
 
 ## Features
 
